@@ -24,3 +24,10 @@ NOTE: setup signing certificate in xcode before running the below command
 ```bash
 npx tauri ios dev --host
 ```
+
+### Building for publishing
+
+```bash
+npx tauri ios build
+npx tauri android build
+```
