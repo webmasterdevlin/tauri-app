@@ -1,6 +1,6 @@
 name: tauri-app
 options:
-  bundleIdPrefix: com.tauri-app.app
+  bundleIdPrefix: com.devlinduldulao.tauri-app
   deploymentTarget:
     iOS: 13.0
 fileGroups: [../../src]
@@ -11,7 +11,7 @@ settingGroups:
   app:
     base:
       PRODUCT_NAME: tauri-app
-      PRODUCT_BUNDLE_IDENTIFIER: com.tauri-app.app
+      PRODUCT_BUNDLE_IDENTIFIER: com.devlinduldulao.tauri-app
 targetTemplates:
   app:
     type: application
