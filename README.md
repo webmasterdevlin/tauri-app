@@ -17,7 +17,7 @@ npm run dev
 npx tauri android init
 npx tauri android dev
 npx tauri ios init
-npx tauri ios dev 'iPhone 16'
+npx tauri ios dev 'iPhone 17'
 ```
 
 NOTE: setup signing certificate in xcode before running the below command
