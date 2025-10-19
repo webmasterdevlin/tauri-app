@@ -23,5 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-# Build artifacts
+# rust-analyser builds
 target
