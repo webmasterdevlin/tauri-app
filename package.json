@@ -23,7 +23,6 @@
     "@types/react-dom": "^19.2.2",
     "@vitejs/plugin-react": "^5.0.4",
     "typescript": "^5.9.3",
-    "vite": "npm:rolldown-vite@latest",
-    "vite-plugin-vercel": "^9.0.7"
+    "vite": "npm:rolldown-vite@latest"
   }
 }
