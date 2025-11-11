@@ -60,7 +60,7 @@ function App() {
         <button
           onClick={async () => {
             await ask("This action cannot be reverted. Are you sure?", {
-              title: "Tauri",
+              title: "Warning",
               kind: "warning",
             });
           }}
